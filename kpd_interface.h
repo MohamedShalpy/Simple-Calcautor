@@ -1,9 +1,4 @@
-/*
- * kpd_interface.h
- *
- *  Created on: Sep 23, 2023
- *      Author: hp
- */
+
 
 #ifndef KPD_INTERFACE_H_
 #define KPD_INTERFACE_H_
